@@ -1,0 +1,18 @@
+{
+    "person":
+    
+    [
+        {
+        "name":"arinc1",
+        "age":231
+        },
+        {
+        "name":"arinc2",
+        "age":232
+        }
+    ],
+    "number":->{
+        var myvar = 2*5+60+100*2+5*5+10; return myvar;}
+    "copy":->{
+        return this.person[1].name;}
+}

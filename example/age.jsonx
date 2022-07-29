@@ -1,0 +1,14 @@
+{
+    "name": "Robert",
+    "age": 30
+    "x2age":->{
+        var robertsage = this.age; 
+        var multiplier = 2; 
+        return robertsage*multiplier;
+    },
+    "x10age":->{
+        var x2age = this.x2age; 
+        var multiplier = 5; 
+        return x2age*multiplier;
+    }
+}

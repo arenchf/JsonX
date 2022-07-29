@@ -1,0 +1,7 @@
+{
+    "myfunc":->{
+        var myvar1 = 2*5;
+        var myvar2 = 5;
+        return myvar1*myvar2;  
+    }
+}

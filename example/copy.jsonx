@@ -1,0 +1,8 @@
+{
+    "person":{
+        "name":"arinc",
+        "age":23
+    }
+    "number":->{var myvar = 2*5+60+100*2+5*5+10; return myvar;}
+    "copy":->{return this.person;}
+}

@@ -1,0 +1,14 @@
+{
+    "person": [
+        {
+            "name": "arinc1",
+            "age": 231
+        },
+        {
+            "name": "arinc2",
+            "age": 232
+        }
+    ],
+    "number": 305,
+    "copy": "arinc2"
+}

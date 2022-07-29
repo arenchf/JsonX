@@ -1,0 +1,7 @@
+{
+    "City":"New York",
+    "func":->{
+        var myvar = this.age;
+        return this.age
+    }
+}

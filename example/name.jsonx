@@ -1,0 +1,6 @@
+{
+    "firstName":"Robert",
+    "name":->{
+        return this.firstName + " Dawney Jr.";
+    }
+}
